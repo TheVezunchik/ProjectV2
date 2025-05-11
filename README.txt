@@ -1,5 +1,5 @@
 Сайт опубликован на GitHUB
-Ссылка на страницу сайта: None
+Ссылка на страницу сайта: https://thevezunchik.github.io/ProjectV2/
 Ссылка на сайт репозитория: https://github.com/TheVezunchik/ProjectV2/
 
 Сайт делал Морозов Павел Игоревич
